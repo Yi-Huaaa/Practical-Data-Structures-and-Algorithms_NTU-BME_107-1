@@ -8,6 +8,6 @@
 1. Course semester: 107-1, Fall.
 1. Course name: Practical-Data-Structures-and-Algorithms (pdsa).
 1. Professor name: Chien-Yu Chen.
-
+1. Coding language: JavaScript.
 
 
