@@ -1,4 +1,4 @@
-# NTU107-1-Practical-Data-Structures-and-Algorithms-CYC
+# NTU107-1-Practical-Data-Structures-and-Algorithms
 
 ## Introduction
 1. Homework code.
